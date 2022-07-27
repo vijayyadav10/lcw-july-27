@@ -1,0 +1,55 @@
+.queryBg {
+  border: 1px solid lightgrey;
+  padding: .5rem
+}
+
+.custom-well {
+  background-color: white;
+  margin-top: 3rem;
+}
+
+.disabled-table {
+  background-color: #f1f1f1;
+  color: #b3b1b1;
+}
+
+.divider {
+  border-bottom: 1px solid rgb(235, 232, 232);
+  margin-bottom: 5px;
+}
+
+/* margintop-2rem */
+.mt-2 {
+  margin-top: 2rem;
+}
+
+div.tab-content .panel-heading {
+  background-color: white !important;
+  background-image: none !important;
+}
+
+div.tab-content .panel {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Override panel desing */
+/* .panel-group .panel-default .panel-heading {
+  background-image: none;
+}
+
+.panel-default>.panel-heading {
+  background-color: white;
+}
+
+.panel {
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid lightgrey !important;
+  border-top: 1px solid lightgrey !important; */
+/* border: 1px none 1px none;
+  border-color: green;
+  border-style: solid; */
+/* } */
+
+/*# sourceMappingURL=main.6574c640.css.map*/

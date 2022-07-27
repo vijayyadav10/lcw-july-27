@@ -1,0 +1,11 @@
+code: et-list-conf
+titles:
+  en: List of Contents
+  it: Lista dei contenuti
+group: free
+customUiPath: et-widget.ftl
+configUi:
+  customElement: list-content-widget-config # CHANGE-IT The name of the custom-element used to render the configUI
+  resources: # CHANGE-IT the file containing the config screen built artefacts
+    - list-content-widget/static/js/react-lcw-config-0.0.0.js
+    - list-content-widget/static/css/main.6574c640.css
